@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<repositories>
+    <repo name="CARP" quality="experimental" status="unofficial" type="git" src="git://github.com:carpproject/carp-overlay.git">
+    <link>git://github.com:carpproject/carp-overlay.git</link>
+<description>Kayrick Gentoo Overlay</description>
+</repo>
+</repositories>
