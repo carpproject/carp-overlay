@@ -29,8 +29,7 @@ DESCRIPTION="VOBLA compiler developed within the CARP project."
 
 HOMEPAGE="https://github.com/carpproject/vobla"
 
-#EGIT_REPO_URI="http://github.com/carpproject/vobla.git"
-EGIT_REPO_URI="/root/vobla"
+EGIT_REPO_URI="http://github.com/carpproject/vobla.git"
 
 LICENSE="MIT"
 SLOT="0"

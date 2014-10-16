@@ -29,7 +29,7 @@ DESCRIPTION="PENCIL tools developed within the CARP project."
 
 HOMEPAGE="https://github.com/carpproject/pencil"
 
-EGIT_REPO_URI="/root/pencil/"
+EGIT_REPO_URI="http://github.com/carpproject/pencil.git"
 
 LICENSE="MIT"
 SLOT="0"
